@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventCal", "AdventCal\AdventCal.csproj", "{9E230AB9-783B-492E-8F0B-0FE60D60F855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E230AB9-783B-492E-8F0B-0FE60D60F855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E230AB9-783B-492E-8F0B-0FE60D60F855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E230AB9-783B-492E-8F0B-0FE60D60F855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E230AB9-783B-492E-8F0B-0FE60D60F855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE533937-CC7D-448D-9DA4-1C8F13AE8946}
+	EndGlobalSection
+EndGlobal
